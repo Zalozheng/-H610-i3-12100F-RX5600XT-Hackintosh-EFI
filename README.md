@@ -1,8 +1,12 @@
-# -H610-i3-12100F-RX5600XT-Hackintosh-EFI
+精粤 -H610-wifi plus-i3-12100F-RX5600XT-Hackintosh-黑苹果EFI
+
 install macOS Sonoma on Intel H610 Mainboard with Intel i3-12100F.
+
 硬件信息
 #主板：精粤H610M Wifi Plus (Wifi自己换了Ax201 需要用Wifi6，这主板是用不了PCI的博通网卡 也就是无法隔空投送）
+
 #CPU I3-12100F
+
 #显卡5600XT迪兰
 
 现在系统
