@@ -6,7 +6,8 @@ install macOS Sonoma on Intel H610 Mainboard with Intel i3-12100F.
 #显卡5600XT迪兰
 
 现在系统
-![](assets/17293433249584.jpg)
+![image](https://github.com/user-attachments/assets/2896abc4-6bb0-464c-9fe0-c2fd6fd3b6fa)
+
 现在用的是mac 15.1系统 无法wifi 
 蓝牙正常（不过需要接外置天线不然信号不够，哪怕只有0.5m）
 
