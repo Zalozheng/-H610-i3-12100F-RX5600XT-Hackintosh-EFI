@@ -12,13 +12,18 @@ install macOS Sonoma on Intel H610 Mainboard with Intel i3-12100F.
 蓝牙正常（不过需要接外置天线不然信号不够，哪怕只有0.5m）
 
 用这个EFI的时候把这几个改一下 不然无法登陆icloud
-![](assets/17293435377578.jpg)
+![image](https://github.com/user-attachments/assets/2f224d37-688a-48c7-a3ef-dc1aa4c53d64)
+
 
 这个主板的USB 已经定制 我把自己的机型写进这个kext了
 你如果用请自己更新机型 或者直接用USBMAp 也可以
-![](assets/17293436664614.jpg)
+![image](https://github.com/user-attachments/assets/bb687941-254a-4eb5-8748-978fd9467e1a)
+
+
 这样更改：右击显示包内容打开Contents 打开Info.plist
 
-![](assets/17293438076379.jpg)
-![](assets/17293440626138.jpg)
+![image](https://github.com/user-attachments/assets/7728f960-f5fd-4a76-ab9d-553ab7bf8837)
+
+![image](https://github.com/user-attachments/assets/50d07e51-fdd9-422f-b929-1379192ec807)
+
 这里是端口号0 是USB2.0 3是USB2.0  255是内置
